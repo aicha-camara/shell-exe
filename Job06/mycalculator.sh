@@ -17,7 +17,7 @@ then
   resultat=$((nombre1 / nombre2))
 echo "Le résultat de $nombre1 $operateur $nombre2 est :" $resultat
 
-elif [ "$operateur" = "*" ]
+elif [ "$operateur" = "x" ]
 then
   resultat=$((nombre1 * nombre2))
 echo "Le résultat de $nombre1 $operateur $nombre2 est :" $resultat
