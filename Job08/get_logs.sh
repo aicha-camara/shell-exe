@@ -12,5 +12,3 @@ tar -cf "$save/number_connection-$la_date.tar" -C "$save" "number_connection-$la
 rm "$nom_fichier"
 
 echo "Le nombre de connexions de $utilisateur a été enregistré"
-
-
